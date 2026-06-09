@@ -49,37 +49,37 @@ DelishDrop is a full-stack MERN web application that solves a real-life restaura
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](ss1-homepage.png)
+![Home Page](Output%20Screenshots/ss1-homepage.png)
 
 ### 🍔 Menu Page
-![Menu Page](ss2-menu.png)
+![Menu Page](Output%20Screenshots/ss2-menu.png)
 
 ### 🔐 Sign In
-![Sign In](ss3-login.png)
+![Sign In](Output%20Screenshots/ss3-login.png)
 
 ### 📝 Register
-![Register](ss4-register.png)
+![Register](Output%20Screenshots/ss4-register.png)
 
 ### 👤 Customer Profile
-![Customer Profile](ss5-profile.png)
+![Customer Profile](Output%20Screenshots/ss5-profile.png)
 
 ### ✅ Order Placed
-![Order Placed](ss6-order-placed.png)
+![Order Placed](Output%20Screenshots/ss6-order-placed.png)
 
 ### 📊 Admin Dashboard
-![Admin Dashboard](ss7-admin-dashboard.png)
+![Admin Dashboard](Output%20Screenshots/ss7-admin-dashboard.png)
 
 ### 📦 Admin — Manage Orders
-![Manage Orders](ss8-admin-orders.png)
+![Manage Orders](Output%20Screenshots/ss8-admin-orders.png)
 
 ### 🍽️ Admin — Manage Foods
-![Manage Foods](ss9-manage-foods.png)
+![Manage Foods](Output%20Screenshots/ss9-manage-foods.png)
 
 ### ➕ Admin — Add Food Item
-![Add Food Item](ss10-add-food.png)
+![Add Food Item](Output%20Screenshots/ss10-add-food.png)
 
 ### 🗄️ MongoDB Atlas — Database
-![MongoDB Atlas](ss11-mongodb-atlas.png)
+![MongoDB Atlas](Output%20Screenshots/ss11-mongodb-atlas.png)
 
 ---
 
@@ -262,6 +262,7 @@ delishdrop/
 │   ├── .env
 │   └── server.js
 │
+├── Output Screenshots/       # App screenshots
 └── README.md
 ```
 
