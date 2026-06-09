@@ -5,6 +5,14 @@
 
 ---
 
+## 🌐 Live Demo
+
+**[🚀 View Deployed App](https://delish-drop-restaurant-management-by-mushtaq.vercel.app/#/admin-dashboard)**
+
+> Hosted on Vercel — Frontend | MongoDB Atlas — Database
+
+---
+
 ## 📋 Project Description
 
 DelishDrop is a full-stack MERN web application that solves a real-life restaurant food ordering and management problem. Customers can browse the menu, search and filter items, manage their cart, and place orders. Restaurant owners get a secure admin panel to manage food items, handle orders, and monitor business performance.
@@ -38,6 +46,43 @@ DelishDrop is a full-stack MERN web application that solves a real-life restaura
 
 ---
 
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](ss1-homepage.png)
+
+### 🍔 Menu Page
+![Menu Page](ss2-menu.png)
+
+### 🔐 Sign In
+![Sign In](ss3-login.png)
+
+### 📝 Register
+![Register](ss4-register.png)
+
+### 👤 Customer Profile
+![Customer Profile](ss5-profile.png)
+
+### ✅ Order Placed
+![Order Placed](ss6-order-placed.png)
+
+### 📊 Admin Dashboard
+![Admin Dashboard](ss7-admin-dashboard.png)
+
+### 📦 Admin — Manage Orders
+![Manage Orders](ss8-admin-orders.png)
+
+### 🍽️ Admin — Manage Foods
+![Manage Foods](ss9-manage-foods.png)
+
+### ➕ Admin — Add Food Item
+![Add Food Item](ss10-add-food.png)
+
+### 🗄️ MongoDB Atlas — Database
+![MongoDB Atlas](ss11-mongodb-atlas.png)
+
+---
+
 ## 🛠️ Technology Stack
 
 | Layer | Technology |
@@ -45,6 +90,7 @@ DelishDrop is a full-stack MERN web application that solves a real-life restaura
 | Frontend | React JS, React Router DOM, Context API, Axios, Tailwind CSS |
 | Backend | Node.js, Express.js, JWT, Express Validator, Bcrypt |
 | Database | MongoDB Atlas, Mongoose ODM |
+| Deployment | Vercel (Frontend), MongoDB Atlas (Database) |
 
 ---
 
