@@ -7,7 +7,7 @@
 
 ## 🌐 Live Demo
 
-**[🚀 View Deployed App](https://delish-drop-restaurant-management-by-mushtaq.vercel.app/#/admin-dashboard)**
+**[🚀 View Deployed App](https://delish-drop-restaurant-management-by-mushtaq.vercel.app)**
 
 > Hosted on Vercel — Frontend | MongoDB Atlas — Database
 
