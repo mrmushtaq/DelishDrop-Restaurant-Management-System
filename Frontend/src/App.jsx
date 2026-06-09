@@ -1,11 +1,11 @@
-import { BrowserRouter } from "react-router-dom";
+import { HashRouter } from "react-router-dom";
 import { AuthProvider } from "./context/AuthContext";
 import { CartProvider } from "./context/CartContext";
 import { FavouriteProvider } from "./context/FavouriteContext";
 import AppRoutes from "./routes/AppRoutes";
 
 const App = () => (
-  <BrowserRouter>
+  <HashRouter>
     <AuthProvider>
       <FavouriteProvider>
         <CartProvider>
@@ -13,7 +13,7 @@ const App = () => (
         </CartProvider>
       </FavouriteProvider>
     </AuthProvider>
-  </BrowserRouter>
+  </HashRouter>
 );
 
 export default App;
