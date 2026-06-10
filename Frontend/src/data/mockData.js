@@ -208,7 +208,7 @@ export const categories = [
 export const reviews = [
   {
     id: 1,
-    name: "Sarah Johnson",
+    name: "Ayesha Khan",
     avatar: "https://i.pravatar.cc/60?img=47",
     rating: 5,
     comment: "The best burger I've had in ages! Super fast delivery too.",
@@ -216,7 +216,7 @@ export const reviews = [
   },
   {
     id: 2,
-    name: "Marcus Lee",
+    name: "Ali Raza",
     avatar: "https://i.pravatar.cc/60?img=12",
     rating: 5,
     comment: "Absolutely love the pizza. Crispy crust and fresh toppings every single time.",
@@ -224,7 +224,7 @@ export const reviews = [
   },
   {
     id: 3,
-    name: "Priya Patel",
+    name: "Fatima Ahmed",
     avatar: "https://i.pravatar.cc/60?img=45",
     rating: 4,
     comment: "Great variety and the app is so easy to use. Delivery was right on time!",
